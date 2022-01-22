@@ -7,8 +7,11 @@ You can end your turn to reset your turn settings.
 It's not perfect. There's still a way to crash it if you enter a string where it wants an integer.
 There is no end command so you have to close the program to end it.
 I don't know how to require integer inputs yet either.
+Just run it in python or idle to interact with it. 
 
 Feel free to optimize for yourselves.
 
 I still have a lot to learn and will update this project as I continue learning python. 
 So hopefully the above issues will be fixed in the future.
+
+Version 1 was the first "complete" version, but version 2 has added functionality for the "movement" option.
